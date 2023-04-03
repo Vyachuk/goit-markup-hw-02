@@ -57,7 +57,7 @@ h2{
     color: #434455;
 }
 
-.text-h2-portfolio {
+.text-ht-portfolio {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -66,10 +66,10 @@ h2{
     margin-bottom: 8px;
 }
 
-.second-section-h2{
+.second-section-ht{
     line-height: 1.2;
 }
-.text_h3 {
+.text_ht {
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
@@ -80,7 +80,7 @@ h2{
 
 
 
-.third_section_h2{
+.third_section_ht{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
