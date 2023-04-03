@@ -186,6 +186,9 @@ footer p{
     height: 112px;
     margin-top: 16px;
 }
+.contact-link{
+    color: #434455;
+}
 
 .logo{
     color: #4d5ae5;
@@ -204,7 +207,7 @@ footer p{
     color: #f4f4fd;
 }
 .logo-span{
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 
 
