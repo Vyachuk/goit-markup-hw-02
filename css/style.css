@@ -184,7 +184,7 @@ footer p{
 }
 
 .logo{
-    color: #4D5AE5;
+    color: #434455;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
@@ -199,8 +199,8 @@ footer p{
 .footer-span {
     color: #f4f4fd;
 }
-.logo span{
-    color: #2e2f42;
+.logo-span{
+    color: #f4f4fd;
 }
 
 
