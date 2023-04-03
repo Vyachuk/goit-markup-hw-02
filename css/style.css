@@ -50,7 +50,9 @@ h2{
     text-align: center;
     margin-bottom: 72px;
 }
-
+.nav-link{
+    color: #434455;
+}
 
 .text-h2-portfolio {
     font-weight: 500;
@@ -58,6 +60,7 @@ h2{
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-size: 20px;
+    margin-bottom: 8px;
 }
 
 .text-h2{
@@ -125,6 +128,7 @@ header address{
 }
 .first-section-button {
     padding: 16px 32px;
+    font-family: "Roboto", sans-serif;
     line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
@@ -184,7 +188,7 @@ footer p{
 }
 
 .logo{
-    color: #434455;
+    color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
