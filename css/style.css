@@ -33,7 +33,7 @@ body {
     font-size: 16px;
     margin: 0 156px;
     display: block;
-    color: var(--text-color);
+    color: #434455;
     background-color: #FFFFFF;
 
 }
@@ -121,13 +121,13 @@ header address{
 
 }
 
-.sect{
+main section{
     margin: 120px auto;
 }
-.sect ul{
+main section ul{
         display: flex;
 }
-.sect li {
+main section li {
     margin:0px 12px;
     flex-direction: column;
 }
