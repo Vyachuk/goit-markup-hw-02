@@ -39,7 +39,7 @@ body {
 
 }
 .first-section-h1{
-    font-size: 54px;
+    font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -133,6 +133,9 @@ header address{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.04em;
 }
 .first-section-button:hover, .first-section-button:focus {
     background-color: #404BBF;
@@ -229,7 +232,11 @@ footer p{
     margin-left: 16px;
     margin-bottom: 8px;
 }
-
+.second-section-p{
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .portfolio-nav{
     display: flex;
     flex-direction: row;
@@ -238,6 +245,7 @@ footer p{
 }
 .portfolio-nav-button{
     margin: 0px 12px;
+    font-family: "Roboto", sans-serif;
     padding: 12px 24px;
     color: #4D5AE5;
     background-color: #F4F4FD;
